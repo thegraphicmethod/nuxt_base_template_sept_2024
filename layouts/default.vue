@@ -1,6 +1,7 @@
 <template>
   <div>
     <slot />
+    <baseFooter></baseFooter>
   </div>
 </template>
 

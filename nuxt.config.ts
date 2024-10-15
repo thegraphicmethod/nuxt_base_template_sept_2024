@@ -22,6 +22,7 @@ export default defineNuxtConfig({
     "@nuxt/icon",
     "shadcn-nuxt",
     "@pinia/nuxt",
+    "@nuxtjs/google-fonts",
   ],
   tailwindcss: {
     exposeConfig: {
